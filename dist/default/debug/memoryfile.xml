@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/punteros1.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>17552</length>                 
+      <used>2448</used>                     
+      <free>15104</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>4096</length>                 
+      <used>832</used>                     
+      <free>3264</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
